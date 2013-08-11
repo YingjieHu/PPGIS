@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Class-Path: lib/swt.jar
+Main-Class: com.ecnu.ClientMain
+
+
