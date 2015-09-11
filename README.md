@@ -6,5 +6,9 @@ This project contains the source Java code for a collaborative 3D GIS to enhance
 ### Related Publication
 Y Hu, Z Lv, J Wu, K Janowicz, X Zhao, B Yu (2013): A multistage collaborative 3D GIS to support public participation, International Journal of Digital Earth, 8(3), 212- 234.
 
-### System Screenshots
+### Figures and Screenshots
 ![multi-stage process](http://www.tandfonline.com/na101/home/literatum/publisher/tandf/journals/content/tjde20/2015/tjde20.v008.i03/17538947.2013.866172/20150326/images/large/tjde_a_866172_f0001_oc.jpeg)
+Five stages of a general decision-making process and an idealistic view of public participation.
+
+![screenshot](http://www.tandfonline.com/na101/home/literatum/publisher/tandf/journals/content/tjde20/2015/tjde20.v008.i03/17538947.2013.866172/20150326/images/large/tjde_a_866172_f0007_oc.jpeg)
+Screenshot of the collaborative 3D GIS.
